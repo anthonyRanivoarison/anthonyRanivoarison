@@ -18,7 +18,7 @@
 </div>
 
 <details style="margin-block: 1rem">
-  <summary>Github Stats ⚡</summary>
+  <summary style="font-size: 1.3rem; font-weight: 700">📊 Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=anthonyRanivoarison&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyRanivoarison&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
