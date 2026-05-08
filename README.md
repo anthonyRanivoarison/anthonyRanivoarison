@@ -1,56 +1,39 @@
 # Hi there 👋
 
-<link rel="preconnect" href="https://fonts.bunny.net">
-<link href="https://fonts.bunny.net/css?family=geist:400,500,600,700" rel="stylesheet">
+**I'm Antonio** — IT student based in Madagascar. I build full-stack web apps and I'm exploring AI/ML, specially LLMs and how to make apps smarter. Passionate about building, experimenting, and bringing new ideas to life.
 
-<div style="font-family: 'Geist', sans-serif; line-height: 1.6;">
-
-**I'm Antonio** — I'm a IT student based in Madagascar. I build full-stack web apps and also exploring AI/ML, specially LLMs and how to make apps smarter. Passionate about building, experimenting, and bringing new ideas to life. Checkout my portfolio [here](https://tsioryantonio.vercel.app/).
+Checkout my portfolio [here](https://tsioryantonio.vercel.app/) 🌍 · Read my blog [here](https://tsioryantonio.vercel.app/blog) 📚
 
 ---
 
 ## 🛠️ My Craft & Toolbox
 
-**🎨 Frontend — Where pixels meet logic**
+**🎨 Frontend — what you see**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite)](https://skillicons.dev)
 
-**⚙️ Backend — The engine room**
+**⚙️ Backend — what makes it run**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,prisma,redis,docker,supabase" />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,prisma,redis,docker,supabase)](https://skillicons.dev)
 
-**🧠 AI / ML — Teaching machines to think**
+**🧠 AI / ML — making it think**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
 
-**🧰 Also in my toolkit**
+**🧰 Tooling — daily drivers**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,pycharm,idea,linux,bash,pnpm" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,idea,linux,bash,pnpm)](https://skillicons.dev)
 
 ---
 
 ## 🎯 Currently
 
-- 🎓 Studying Computer Science
+- 🎓 Studying Information Technology
 - 🤖 Exploring LLM integrations and AI-powered features in web apps
 - 🌍 Building from Madagascar
 
 ---
 
-## 📊 GitHub Pulse
-
-<div style="display:flex;align-items:center;justify-content:center;gap:1rem">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anthonyRanivoarison&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/anthonyRanivoarison)
-
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anthonyRanivoarison&theme=default)](https://github.com/anthonyRanivoarison)
-
-</div>
-
----
-
-<p align="center" style="font-family: 'Geist', sans-serif; color: #6b7280; font-size: 0.9rem;">
-  ☕ Built with code & coffee ☕ · Shipping real things ✨ · Currently coding from Madagascar 🇲🇬
+<p align="center">
+  ☕ Built with code & coffee · Shipping real things ✨ · Currently coding from Madagascar 🇲🇬
 </p>
-
-</div>
