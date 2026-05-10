@@ -32,6 +32,10 @@ Checkout my portfolio [here](https://tsioryantonio.vercel.app/) 🌍 · Read my 
 - 🤖 Exploring LLM integrations and AI-powered features in web apps
 - 🌍 Building from Madagascar
 
+## Views
+
+[![Antonio profile views](https://u8views.com/api/v1/github/profiles/190820693/views/day-week-month-total-count.svg)](https://u8views.com/github/anthonyRanivoarison)
+
 ---
 
 <p align="center">
