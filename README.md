@@ -2,8 +2,6 @@
 
 **I'm Antonio** — IT student based in Madagascar. I build full-stack web apps and I'm exploring AI/ML, specially LLMs and how to make apps smarter. Passionate about building, experimenting, and bringing new ideas to life.
 
-Checkout my portfolio [here](https://tsioryantonio.vercel.app/) 🌍 · Read my blog [here](https://tsioryantonio.vercel.app/blog) 📚
-
 ---
 
 ## 🛠️ My Craft & Toolbox
