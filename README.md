@@ -1,6 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:center; ">
-    <img src="./background.webp">
-</div>
+<img src="./background.webp">
 
 <h1 align="center">Hi there 👋</h1>
 
