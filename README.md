@@ -1,4 +1,6 @@
-<img src="./background.webp">
+<p align="center">
+    <img src="./background.webp">
+</p>
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -8,7 +10,7 @@
 
 ---
 
-<h2 align="center">🛠️ My Craft & Toolbox</h1>
+<!--<h2 align="center">🛠️ My Craft & Toolbox</h1>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express" alt="My Skills">
@@ -18,7 +20,7 @@
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,pycharm,idea,linux,pnpm" alt="My Skills">
-</p>
+</p>-->
 
 ---
 
