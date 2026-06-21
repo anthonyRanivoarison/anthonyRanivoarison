@@ -2,11 +2,11 @@
     <img src="./background.webp">
 </p>
 
-<h1>Hi there</h1>
+<!--<h1 style="margin-inline: 12px">Hi there</h1>
 
 <p>
     <b>I'm Antonio</b> — IT student based in Madagascar. I build full-stack web apps and I'm exploring AI/ML, specially LLMs and how to make apps smarter. Passionate about building, experimenting, and bringing new ideas to life.
-</p>
+</p>-->
 
 <!--<h2 align="center>🛠️ My Craft & Toolbox</h1>
 
@@ -34,6 +34,6 @@
 
 ----->
 
-<p align="center">
+<!--<p align="center">
   ☕ Built with code & coffee · Shipping real things ✨ · Currently coding from Madagascar 🇲🇬
-</p>
+</p>-->
