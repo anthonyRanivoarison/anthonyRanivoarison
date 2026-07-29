@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./background-2.png">
+    <img src="./background.png">
 </p>
 
 <!--<h1 style="margin-inline: 12px">Hi there</h1>
